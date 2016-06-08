@@ -3,7 +3,7 @@
 
 ## 操作方法
 
-![Hardwaremanager.gif](image/Hardwaremanager.gif)
+![HardwareManager.gif](image/HardwareManager.gif)
 
 ## Author
 
